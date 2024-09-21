@@ -1,6 +1,0 @@
-x and y or z
-do a else do b
-
-x-fails
-
-2 ** 3 ** 2

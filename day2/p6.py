@@ -7,6 +7,6 @@ class Employee:
     def __str__(self) -> str:
         return f'{self.name}, {self.designation}, {self.salary}'
     
-emp = Employee('nithin','runner',12000)
+emp = Employee('prakash','runner',1000)
 print(emp)
 print(emp.salary)
